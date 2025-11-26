@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BioNatura | Buscar</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <a href="index.html" class="logo"><i class="fas fa-leaf"></i> BioNatura</a>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="search.html" class="active">Buscar Temas</a></li>
+                <li><a href="recursos.html">Recursos</a></li>
+                <li><a href="about.html">Autor</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="search-container">
+            <h2>Explora nuestra enciclopedia</h2>
+            
+            <div class="keyword-badge">
+                <i class="fas fa-tag"></i> Buscar por palabras clave
+            </div>
+
+            <div class="search-input-wrapper">
+                <input type="text" id="searchInput" placeholder="Ej: Virus, Evolución, Hongos...">
+            </div>
+
+            <div id="resultsContainer">
+                <p class="placeholder-text">Los resultados aparecerán aquí...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 BioNatura Explorer. Ciencia para todos.</p>
+    </footer>
+
+    <script src="js/search.js"></script>
+</body>
+</html>
