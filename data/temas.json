@@ -1,0 +1,102 @@
+[
+    {
+        "titulo": "La Célula Animal",
+        "descripcion": "Unidad funcional de los animales. Posee núcleo, membrana y carece de pared celular.",
+        "categoria": "Biología Celular"
+    },
+    {
+        "titulo": "La Célula Vegetal",
+        "descripcion": "Célula de las plantas que posee pared celular rígida, cloroplastos y vacuolas grandes.",
+        "categoria": "Biología Celular"
+    },
+    {
+        "titulo": "Fotosíntesis",
+        "descripcion": "Proceso químico que convierte dióxido de carbono en compuestos orgánicos utilizando la energía lumínica.",
+        "categoria": "Botánica"
+    },
+    {
+        "titulo": "ADN (Ácido Desoxirribonucleico)",
+        "descripcion": "Molécula que contiene las instrucciones genéticas usadas en el desarrollo y funcionamiento de los organismos vivos.",
+        "categoria": "Genética"
+    },
+    {
+        "titulo": "ARN (Ácido Ribonucleico)",
+        "descripcion": "Ácido nucleico que participa en la síntesis de proteínas y realiza la función de mensajero de la información genética.",
+        "categoria": "Genética"
+    },
+    {
+        "titulo": "Sistema Digestivo",
+        "descripcion": "Conjunto de órganos encargados del proceso de la digestión, es decir, la transformación de los alimentos.",
+        "categoria": "Anatomía Humana"
+    },
+    {
+        "titulo": "Sistema Respiratorio",
+        "descripcion": "Conjunto de órganos que poseen los seres vivos con la finalidad de intercambiar gases con el medio ambiente.",
+        "categoria": "Anatomía Humana"
+    },
+    {
+        "titulo": "Sistema Circulatorio",
+        "descripcion": "Sistema de transporte interno que utilizan los seres vivos para mover nutrientes, oxígeno y hormonas.",
+        "categoria": "Anatomía Humana"
+    },
+    {
+        "titulo": "Ecosistemas",
+        "descripcion": "Sistema biológico constituido por una comunidad de seres vivos y el medio natural en que viven.",
+        "categoria": "Ecología"
+    },
+    {
+        "titulo": "Ciclo del Agua",
+        "descripcion": "El proceso de circulación del agua entre los distintos compartimentos que forman la hidrosfera.",
+        "categoria": "Ecología"
+    },
+    {
+        "titulo": "La Neurona",
+        "descripcion": "Célula del sistema nervioso especializada en captar los estímulos y conducir el impulso nervioso.",
+        "categoria": "Anatomía Humana"
+    },
+    {
+        "titulo": "Partes de la Flor",
+        "descripcion": "Estudio de los órganos reproductivos de las plantas angiospermas (estambres, pistilo, pétalos).",
+        "categoria": "Botánica"
+    },
+    {
+        "titulo": "Cadena Alimenticia",
+        "descripcion": "Señala las relaciones alimenticias entre productores, consumidores y descomponedores.",
+        "categoria": "Ecología"
+    },
+    {
+        "titulo": "Mitosis",
+        "descripcion": "Proceso de división celular donde una célula madre da lugar a dos células hijas idénticas.",
+        "categoria": "Biología Celular"
+    },
+    {
+        "titulo": "Meiosis",
+        "descripcion": "División celular que reduce el número de cromosomas a la mitad, creando gametos (óvulos y espermatozoides).",
+        "categoria": "Biología Celular"
+    },
+    {
+        "titulo": "Virus",
+        "descripcion": "Agente infeccioso microscópico acelular que solo puede replicarse dentro de las células de otros organismos.",
+        "categoria": "Microbiología"
+    },
+    {
+        "titulo": "Bacterias",
+        "descripcion": "Microorganismos procariotas que presentan un tamaño de unos pocos micrómetros y diversas formas.",
+        "categoria": "Microbiología"
+    },
+    {
+        "titulo": "Teoría de la Evolución",
+        "descripcion": "Conjunto de conocimientos científicos que explican la diversidad de la vida a través de cambios generacionales (Darwin).",
+        "categoria": "Biología Evolutiva"
+    },
+    {
+        "titulo": "Reino Fungi (Hongos)",
+        "descripcion": "Reino de los seres vivos que incluye a los mohos, las levaduras y las setas.",
+        "categoria": "Biodiversidad"
+    },
+    {
+        "titulo": "Artrópodos",
+        "descripcion": "Filo de animales invertebrados que incluye insectos, arácnidos y crustáceos; tienen esqueleto externo.",
+        "categoria": "Zoología"
+    }
+]
